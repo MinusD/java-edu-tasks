@@ -7,8 +7,8 @@ public class RandomCollection {
     public static void main(String[] args) {
         int[] data = new int[10];
 
-        // Use Math.Random
-        System.out.println("\nUse Random.nextInt()");
+        // Use Math.Random()
+        System.out.println("\nUse Math.Random()");
         for (int i = 0; i < 10; i++) {
             data[i] = (int) Math.round(Math.random() * 10000);
         }
