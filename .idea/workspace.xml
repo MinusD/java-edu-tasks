@@ -5,6 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="59747249-42c5-4c8f-a900-6ee31aacf090" name="Changes" comment="Added Lab01.3 (RandomCollection)">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/lab03/task1/Author.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/lab03/task1/TestAuthor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/lab03/task2/Ball.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/lab03/task2/TestBall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/lab03/task3/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/lab03/task3/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/lab03/task3/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/lab03/task4/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/lab03/task4/Shop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/lab03/task4/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/lab03/task5/Dog.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,20 +55,22 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "copyright"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.RandomCollection">
-    <configuration name="ArraySum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.minusd.lab01.ArraySum" />
+  <component name="RunManager" selected="Application.ru.minusd.lab03.task4.Tester">
+    <configuration name="RemovalFromList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.minusd.lab02.RemovalFromList" />
       <module name="java-edu-tasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.minusd.lab01.*" />
+          <option name="PATTERN" value="ru.minusd.lab02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HarmonicSeries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.minusd.lab01.HarmonicSeries" />
+    <configuration name="TestAuthor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.minusd.lab03.task1.TestAuthor" />
       <module name="java-edu-tasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.minusd.lab01.*" />
+          <option name="PATTERN" value="ru.minusd.lab03.task1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +91,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RandomCollection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.minusd.lab01.RandomCollection" />
+    <configuration name="TestBall" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.minusd.lab03.task2.TestBall" />
       <module name="java-edu-tasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.minusd.lab01.*" />
+          <option name="PATTERN" value="ru.minusd.lab03.task2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.minusd.lab03.task3.Tester" />
+      <module name="java-edu-tasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.minusd.lab03.task3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ru.minusd.lab03.task4.Tester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.minusd.lab03.task4.Tester" />
+      <module name="java-edu-tasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.minusd.lab03.task4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,9 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RandomCollection" />
-        <item itemvalue="Application.HarmonicSeries" />
-        <item itemvalue="Application.ArraySum" />
+        <item itemvalue="Application.ru.minusd.lab03.task4.Tester" />
+        <item itemvalue="Application.Tester" />
+        <item itemvalue="Application.TestBall" />
+        <item itemvalue="Application.TestAuthor" />
+        <item itemvalue="Application.RemovalFromList" />
       </list>
     </recent_temporary>
   </component>
@@ -107,6 +149,7 @@
       <option name="presentableId" value="Default" />
       <updated>1662137132782</updated>
       <workItem from="1662137134348" duration="3092000" />
+      <workItem from="1663248570324" duration="5089000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1662137235291</created>
