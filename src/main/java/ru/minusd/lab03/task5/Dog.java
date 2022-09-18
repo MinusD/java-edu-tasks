@@ -28,6 +28,10 @@ public class Dog {
         this.age = age;
     }
 
+    public int getHumanAhe() {
+        return age * 7;
+    }
+
     public Dog(String name, int age) {
         this.name = name;
         this.age = age;
