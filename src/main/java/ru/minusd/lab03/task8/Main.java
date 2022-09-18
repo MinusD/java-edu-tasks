@@ -10,13 +10,9 @@ public class Main {
         var scanner = new Scanner(System.in);
         List<String> data = new ArrayList<>();
         int size = scanner.nextInt();
-        for (int i = 0; i < size; i++) {
+        for (int i = 0; i < size; i++)
             data.add(scanner.next());
-        }
         Collections.reverse(data);
         data.forEach(s -> System.out.print(s + " "));
     }
-
-
-
 }
